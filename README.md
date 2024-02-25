@@ -2,7 +2,7 @@
 ### Project Overview
 ---
 
-This Dashboard provides real-time insights to crimes committed between a period of years, types of crimes done, the range of highest crime committed. By analyzing various aspects of the Crime data, keeping an eye to identify trends, make data-driven recommendations and gain a deeper understanding of why crimes are commited and how to tackle them
+This Dashboard provides real-time insights to crimes committed between a period of years.By analyzing various aspects of the Crime data, keeping an eye to identify trends, make data-driven recommendations and gain a deeper understanding of why crimes are commited and how to tackle them
 
 ### Data Sources
 Crime Rate: the primary dataset used for this analysis is the "crime_rate.csv"file, containing detailed information about the crime rates studied
