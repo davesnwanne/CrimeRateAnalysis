@@ -19,9 +19,15 @@ Crime Rate: the primary dataset used for this analysis is the "crime_rate.csv"fi
    
 ### Exploratory Data Analysis
 Eda involved exploring the crime data to answer key questions such as:
-1 what is the Crime mothly trend
-2 what is the crime rate through a period of years
-3 which country has the highest crime rate in the countries surveyed
+- Total  Crimes
+- Crime Distribution by year and yearly Changes
+- Crimes by Time Range
+- Hitmap for Crime Distribution by Weekdays and Months
+- Crimes by Country
+- Resolved and Unresolved Crimes
+- Monthly Crime Trend with Percentage Variance
+- Identification of Most Dangerous Time of the Day
+
 
 ### Results
  -  A total of 2,500 crimes where officially reported and recorded in the years 2021 – 2023 , the year with the lowest recorded crimes was in 2021 while 2023 recorded a whooping 1,150 crimes in total
