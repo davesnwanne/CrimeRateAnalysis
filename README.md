@@ -18,15 +18,15 @@ Crime Rate: the primary dataset used for this analysis is the "crime_rate.csv"fi
  - Handling missing Values
    
 ### Exploratory Data Analysis
-Eda involved exploring the crime data to answer key questions such as:
-- Total  Crimes
-- Crime Distribution by year and yearly Changes
-- Crimes by Time Range
-- Hitmap for Crime Distribution by Weekdays and Months
-- Crimes by Country
-- Resolved and Unresolved Crimes
-- Monthly Crime Trend with Percentage Variance
-- Identification of Most Dangerous Time of the Day
+Eda involved exploring the visit Report to answer key questions such as:
+
+- 	Evaluate average waiting time of patient
+- Patient visits on a monthly basis
+-	Total visit by department referral
+-	Breakdown patients visit by age group
+-	Determine the average satisfaction by age group and patient race
+-	Determine the average wait time by age-group and patient race
+
 
 
 ### Results
